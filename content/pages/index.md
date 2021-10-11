@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Weirs Beach Media Group
-    subtitle: Optional hero section subtitle
+    subtitle: Creative Services Agency
     content: >-
       Let us do what we do best for YOU, so you can focus on doing what you do best for your clients.
     actions:
