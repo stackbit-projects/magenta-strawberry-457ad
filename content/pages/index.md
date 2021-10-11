@@ -5,8 +5,7 @@ sections:
     title: Weirs Beach Media Group
     subtitle: Optional hero section subtitle
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+      Let us do what we do best for YOU, so you can focus on doing what you do best for your .
     actions:
       - label: Try Free
         url: /pricing
