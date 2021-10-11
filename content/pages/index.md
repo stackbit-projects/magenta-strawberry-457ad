@@ -5,7 +5,8 @@ sections:
     title: Weirs Beach Media Group
     subtitle: Creative Services Agency
     content: >-
-      Let us do what we do best for YOU, so you can focus on doing what you do best for your clients.
+      Let us do what we do best for YOU, so you can focus on doing what you do
+      best for your clients.
     actions:
       - label: Try Free
         url: /pricing
@@ -13,7 +14,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: /images/PnS-New-Logo-Art2t.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
