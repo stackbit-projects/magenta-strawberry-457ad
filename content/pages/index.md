@@ -5,7 +5,7 @@ sections:
     title: Weirs Beach Media Group
     subtitle: Optional hero section subtitle
     content: >-
-      Let us do what we do best for YOU, so you can focus on doing what you do best for your .
+      Let us do what we do best for YOU, so you can focus on doing what you do best for your clients.
     actions:
       - label: Try Free
         url: /pricing
